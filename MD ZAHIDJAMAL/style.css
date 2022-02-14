@@ -1,0 +1,44 @@
+* body {
+    background-color: rgb(65, 225, 204);color:white 
+}
+
+
+#underline{ 
+    color:white ;
+
+}
+
+
+
+
+
+h1{background-color: rgb(136, 156, 158);
+color:black;
+}
+
+.darbhanga {background-color: turquoise;
+    height: 300;
+    width: 300;
+    padding: 10;
+    border: solid;
+
+
+}
+table{
+    border-collapse: collapse;
+    border-color: coral;
+    background-color: black;
+    color: rgb(0, 139, 7);
+}
+
+div{
+background-color: rgb(255, 255, 255);
+color: gray;
+padding: 10px;
+margin: 10px auto;
+padding: ;
+width:200px;
+border-radius:  3px ;
+
+
+}
